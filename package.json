@@ -1,0 +1,23 @@
+{
+  "name": "docky",
+  "version": "1.0.0",
+  "description": "Our own Custom Documentation Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rxfe-softworks/docky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rxfe-softworks/docky/issues"
+  },
+  "homepage": "https://github.com/rxfe-softworks/docky#readme",
+  "dependencies": {
+    "marked": "^17.0.0"
+  }
+}
